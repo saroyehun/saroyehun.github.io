@@ -23,9 +23,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Segun Taofeek Aroyehun"
 description              : # "Portfolio"
-url                      : "https://nlp.cic.ipn.mx"
-baseurl                  : "/segun"
-repository               : "ast123/ast123.github.io"
+url                      : "https://ast123.github.io"
+baseurl                  : "ast123.github.io"
+repository               : "ast123.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -142,13 +142,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/aroyehunS"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/nmder"
+      # url: "https://github.com/ast123"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
