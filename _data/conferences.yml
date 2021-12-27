@@ -1,0 +1,70 @@
+
+- title: "Detection of Adverse Drug Reaction in Tweets Using a Combination of Heterogeneous Word Embeddings"
+  authors: Segun Taofeek Aroyehun, Alexander Gelbukh
+  venue: "#SMM4H@ACL"
+  year: 2019
+  pdflink: "https://www.aclweb.org/anthology/W19-3224.pdf"
+  #codelink: "https://github.com/SenticNet/conv-emotion/tree/master/DialogueGCN"
+  cite: |-
+    @inproceedings{aroyehun2019detection,
+        title = "Detection of Adverse Drug Reaction in Tweets Using a Combination of Heterogeneous Word Embeddings",
+        author = "Aroyehun, Segun Taofeek and Gelbukh, Alexander",
+        booktitle = "Proceedings of the 4th Social Media Mining for Health Applications (\# {SMM4H}) Workshop \& Shared Task",
+        pages = "133--135",
+        year = "2019",
+        address = "Florence, Italy",
+        publisher = "Association for Computational Linguistics",
+    }
+    
+
+- title: "Aggression Detection in Social Media: Using Deep Neural Networks, Data Augmentation, and Pseudo Labeling"
+  authors: Segun Taofeek Aroyehun, Alexander Gelbukh
+  venue: "TRAC@COLING"
+  year: 2018
+  pdflink: "https://www.aclweb.org/anthology/W18-4411.pdf"
+  #codelink: "https://github.com/SenticNet/conv-emotion/tree/master/DialogueGCN"
+  cite: |-
+    @inproceedings{aroyehun2018aggression,
+        title = "Aggression Detection in Social Media: Using Deep Neural Networks, Data Augmentation, and Pseudo Labeling",
+        author = "Aroyehun, Segun Taofeek and Gelbukh, Alexander",
+        booktitle = "Proceedings of the 1st Workshop on Trolling, Aggression and Cyberbullying ({TRAC}-2018)",
+        pages = "90--97",
+        year = 2018",
+        address = "Santa Fe, New Mexico, USA",
+        publisher = "Association for Computational Linguistics",
+        }
+
+- title: "Complex Word Identification: Convolutional Neural Network vs. Feature Engineering"
+  authors: Segun Taofeek Aroyehun, Jason Angel, Daniel Pérez Alvarez, Alexander Gelbukh
+  venue: "BEA@NAACL"
+  year: 2018
+  pdflink: "https://www.aclweb.org/anthology/W18-0538.pdf"
+  #codelink: "https://github.com/SenticNet/conv-emotion/tree/master/DialogueGCN"
+  cite: |-
+    @inproceedings{aroyehun2018complex,
+          title = {Complex Word Identification: Convolutional Neural Network vs. Feature Engineering},
+          author = {Aroyehun, Segun Taofeek and Angel, Jason and P{\'e}rez Alvarez, Daniel Alejandro and Gelbukh, Alexander},
+          booktitle = {Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educational Applications},
+          pages = {322--327},
+          year = {2018},
+          address = {New Orleans, Louisiana, USA},
+          publisher = {Association for Computational Linguistics},
+        }
+
+- title: "Automatic Identification of Drugs and Adverse Drug Reaction Related Tweets"
+  authors: Segun Taofeek Aroyehun, Alexander Gelbukh
+  venue: "SMM4H@EMNLP"
+  year: 2018
+  pdflink: "https://www.aclweb.org/anthology/W18-5915.pdf"
+  #codelink: "https://github.com/SenticNet/conv-emotion/tree/master/DialogueGCN"
+  cite: |-
+    @inproceedings{aroyehun2018automatic,
+        title = {Automatic Identification of Drugs and Adverse Drug Reaction Related Tweets},
+        author = {Aroyehun, Segun Taofeek and Gelbukh, Alexander},
+        booktitle = {Proceedings of the 2018 EMNLP Workshop {SMM4H}: The 3rd Social Media Mining for Health Applications Workshop \& Shared Task},
+        pages = {54--55},
+        year = {2018},
+        address = {Brussels, Belgium},
+        publisher = {Association for Computational Linguistics},
+        }
+

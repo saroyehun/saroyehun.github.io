@@ -1,0 +1,9 @@
+{% if include.sortby %}
+  {% assign field = include.sortby %}
+{% else %}
+  {% assign field = "year" %}
+{% endif %}
+{% assign sortedPapers = include.articles | sort: field | reverse %}
+{% for article in sortedPapers %}
+  {% include cite article=article %}
+{% endfor %}

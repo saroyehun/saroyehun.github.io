@@ -1,0 +1,13 @@
+- title: Variational Fusion for Multimodal Sentiment Analysis
+  authors: Navonil Majumder, Soujanya Poria, Gangeshwar Krishnamurthy, Niyati Chhaya, Rada Mihalcea, Alexander Gelbukh
+  venue: arxiv
+  year: 2019
+  pdflink: https://arxiv.org/pdf/1908.06008
+  cite: |-
+    @ARTICLE{vfusion,
+        author={N. {Majumder} and S. {Poria} and G. {Krishnamurthy} and N. {Chhaya} and R. {Mihalcea} and A. {Gelbukh}},
+        title={{Variational Fusion for Multimodal Sentiment Analysis}},
+        year={2019},
+        volume={abs/1908.06008},
+        url={https://arxiv.org/abs/1908.06008}
+    }

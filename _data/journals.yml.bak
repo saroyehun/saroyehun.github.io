@@ -1,0 +1,135 @@
+- title: Improving Aspect-Level Sentiment Analysis with Aspect Extraction
+  authors: Navonil Majumder, Rishabh Bhardwaj, Soujanya Poria, Amir Zadeh, Alexander Gelbukh, Amir Hussain, Louis-Philippe Morency
+  venue: Neural Computing and Applications (Accepted)
+  year: 2020
+  pdflink: https://arxiv.org/pdf/2005.06607.pdf
+  cite: |-
+    @ARTICLE{94jer0i9,
+        author={N. {Majumder} and R. {Bhardwaj} and S. {Poria} and A. {Zadeh} and A. {Gelbukh} and A. {Hussain} and L.-P. {Morency}},
+        journal={IEEE Intelligent Systems},
+        title={{Improving Aspect-Level Sentiment Analysis with Aspect Extraction}},
+        year={2020},}
+
+- title: Sentiment and Sarcasm Classification with Multitask Learning
+  authors: Navonil Majumder, Soujanya Poria, Haiyun Peng, Niyati Chhaya, Erik Cambria, Alexander Gelbukh
+  venue: IEEE Intelligent Systems
+  year: 2019
+  pdflink: https://arxiv.org/pdf/1901.08014
+  cite: |-
+    @ARTICLE{8766192,
+        author={N. {Majumder} and S. {Poria} and H. {Peng} and N. {Chhaya} and E. {Cambria} and A. {Gelbukh}},
+        journal={IEEE Intelligent Systems},
+        title={Sentiment and Sarcasm Classification With Multitask Learning},
+        year={2019},
+        volume={34},
+        number={3},
+        pages={38-43},
+        keywords={learning (artificial intelligence);neural nets;pattern classification;sentiment analysis;deep neural network;separate tasks;intensive emotion;important natural language processing tasks;sarcasm classification;multitask learning setting;multitask learning-based framework;sentiment classification;sarcasm detection;Task analysis;Neural networks;Computer architecture;Feature extraction;Affective computing;Sentiment analysis;Intelligent systems;Classification},
+        doi={10.1109/MIS.2019.2904691},
+        ISSN={1941-1294},
+        month={May},}
+
+- title: Deep Learning-Based Document Modeling for Personality Detection from Text
+  authors: Navonil Majumder, Soujanya Poria, Alexander Gelbukh, Erik Cambria
+  venue: IEEE Intelligent Systems
+  year: 2017
+  pdflink: https://sentic.net/deep-learning-based-personality-detection.pdf
+  codelink: https://github.com/SenticNet/personality-detection
+  cite: |-
+    @ARTICLE{7887639,
+        author={N. {Majumder} and S. {Poria} and A. {Gelbukh} and E. {Cambria}},
+        journal={IEEE Intelligent Systems},
+        title={Deep Learning-Based Document Modeling for Personality Detection from Text},
+        year={2017},
+        volume={32},
+        number={2},
+        pages={74-79},
+        keywords={feedforward neural nets;information filtering;learning (artificial intelligence);pattern classification;text analysis;emotionally neutral input sentence filtering;document vector;document-level Mairesse features;deep convolutional neural network;identical architecture;binary classifier training;author psychological profile;Big Five traits;author personality type;deep learning based method;text;personality detection;deep learning-based document modeling;Feature extraction;Semantics;Pragmatics;Computational modeling;Neural networks;Emotion recognition;Artificial intelligence;personality;natural language processing;distributional semantics;neural-based document modeling;convolutional neural network;intelligent systems;artificial intelligence},
+        doi={10.1109/MIS.2017.23},
+        ISSN={1941-1294},
+        month={Mar},}
+
+- title: "Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling"
+  authors: Navonil Majumder, Devamanyu Hazarika, Alexander Gelbukh, Erik Cambria, Soujanya Poria
+  venue:  "Knowledge-Based Systems"
+  year: 2018
+  pdflink: "https://www.sentic.net/multimodal-sentiment-analysis-using-hierarchical-fusion.pdf"
+  codelink: "https://github.com/SenticNet/hfusion"
+  cite: |-
+    @article{MAJUMDER2018124,
+    title = "Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling",
+    journal = "Knowledge-Based Systems",
+    volume = "161",
+    pages = "124 - 133",
+    year = "2018",
+    issn = "0950-7051",
+    doi = "10.1016/j.knosys.2018.07.041",
+    url = "http://www.sciencedirect.com/science/article/pii/S0950705118303897",
+    author = "N. Majumder and D. Hazarika and A. Gelbukh and E. Cambria and S. Poria",
+    keywords = "Multimodal fusion, Sentiment analysis",
+    ipf      = "4.396"
+    }
+
+- title: "Multimodal Sentiment Analysis: Addressing Key Issues and Setting Up the Baselines"
+  authors: Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Erik Cambria, Alexander Gelbukh, Amir Hussain
+  venue:  "IEEE Intelligent Systems"
+  year: 2018
+  pdflink: "https://sentic.net/multimodal-sentiment-analysis-key-issues-and-baselines.pdf"
+  cite: |-
+    @ARTICLE{8636432, 
+    author={S. Poria and N. Majumder and D. Hazarika and E. Cambria and A. Gelbukh and A. Hussain}, 
+    journal={IEEE Intelligent Systems}, 
+    title={Multimodal Sentiment Analysis: Addressing Key Issues and Setting Up the Baselines}, 
+    year={2018}, 
+    volume={33}, 
+    number={6}, 
+    pages={17-25}, 
+    keywords={Sentiment analysis;Feature extraction;Visualization;Emotion recognition;Affective computing;Social networking (online);Intelligent systems}, 
+    doi={10.1109/MIS.2018.2882362}, 
+    ISSN={1541-1672}, 
+    ipf="2.596",
+    month={Nov},}
+
+- title: "Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances"
+  authors: Soujanya Poria, Navonil Majumder, Rada Mihalcea, Eduard Hovy
+  venue:  "IEEE Access"
+  year: 2019
+  pdflink: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8764449"
+  cite: |-
+    @ARTICLE{8764449, 
+    author={S. {Poria} and N. {Majumder} and R. {Mihalcea} and E. {Hovy}}, 
+    journal={IEEE Access}, 
+    title={Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances}, 
+    year={2019}, 
+    volume={}, 
+    number={}, 
+    pages={1-1}, 
+    keywords={Emotion recognition;Task analysis;Context modeling;Taxonomy;Natural language processing;Licenses;Pragmatics}, 
+    doi={10.1109/ACCESS.2019.2929050}, 
+    ISSN={2169-3536}, 
+    month={},
+    ipf="4.098"}
+
+# - title: "Recent Trends in Deep Learning-Based Personality Detection"
+#   authors: Yash Mehta, Navonil Majumder, Alexander Gelbukh, Erik Cambria
+#   venue:  "Artificial Intelligence Review"
+#   year: 2019
+#   pdflink: "https://www.sentic.net/personality-detection.pdf"
+#   cite: |-
+#     @article{Mehta2019,
+#     author="Mehta, Yash
+#     and Majumder, Navonil
+#     and Gelbukh, Alexander
+#     and Cambria, Erik",
+#     title="Recent Trends in Deep Learning-Based Personality Detection",
+#     journal="Artificial Intelligence Review",
+#     year="2019",
+#     month="Oct",
+#     day="10",
+#     abstract="Recently, the automatic prediction of personality traits has received a lot of attention. Specifically, personality trait prediction from multimodal data has emerged as a hot topic within the field of affective computing. In this paper, we review significant machine learning models which have been employed for personality detection, with an emphasis on deep learning-based methods. This review paper provides an overview of the most popular approaches to automated personality detection, various computational datasets, its industrial applications, and state-of-the-art machine learning models for personality detection with specific focus on multimodal approaches. Personality detection is a very broad and diverse topic: this survey only focuses on computational approaches and leaves out psychological studies on personality detection.",
+#     issn="1573-7462",
+#     doi="10.1007/s10462-019-09770-z",
+#     url="https://doi.org/10.1007/s10462-019-09770-z",
+#     ipf="5.095",
+#     }
+

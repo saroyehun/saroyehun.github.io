@@ -1,0 +1,37 @@
+{% assign upperstitle = site.title | upcase %}
+<div class="notice">
+  <div class="publication">
+    <b>{{ include.article.title }}</b><br>
+    {%- assign namelist = include.article.authors | split: "," -%}
+    {%- assign lastindex = namelist | size | minus: 1 -%}
+    {%- for name in namelist limit:lastindex -%}
+      {%- assign uppername = name | strip | upcase -%}
+      {%- if uppername == upperstitle -%}
+        <u style="border-bottom: 1px solid black;">{{ name | strip }}</u>,{{ " " }}
+      {%- else -%}
+        {{ name | strip }},{{ " " }}
+      {%- endif -%}
+    {%- endfor -%}
+    and{{ " " }}
+    {%- assign lastelement = namelist[lastindex] -%}
+    {%- assign upperle = lastelement | strip | upcase -%}
+    {%- if upperle == upperstitle -%}
+      <u style="border-bottom: 1px solid black;">{{ lastelement | strip }}</u>
+    {%- else -%}
+      {{ lastelement | strip }}
+    {%- endif -%}
+    <br>
+    <i>{{ include.article.venue }}</i>, {{ include.article.year }}
+    {% if include.article.pdflink %}<a href="{{ include.article.pdflink }}" target="_blank" class="btn btn--info btn--small" role="button">pdf</a>{% endif %}
+    {% if include.article.codelink %}<a href="{{ include.article.codelink }}" target="_blank" class="btn btn--warning btn--small" role="button">code</a>{% endif %}
+    {% if include.article.cite %}
+    <button class="btn btn--inverse" onclick="toggleCitation(this)">cite</button>
+    <div class="citation">
+      <button class="btn btn--inverse" onclick="copyToClipboard(this)">copy</button>
+      <div class="notice" style="white-space: pre-wrap;">
+{{ include.article.cite }}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
