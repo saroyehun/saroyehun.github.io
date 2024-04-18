@@ -53,7 +53,7 @@ p {
 <div>
 <p>
 
-I am currently a Postdoc in <a href="https://dgarcia.eu/">Prof. David Garcia's</a> Computational Social Science lab.
+I am currently a Postdoc in <a href="https://dgarcia.eu/">Prof. David Garcia's</a> Social Data Science lab.
 
 I obtained a PhD from the <a class="simple" href="http://www.cic.ipn.mx/index.php/es/">Centro de Investigación en Computación</a>, IPN. My PhD advisor was <a href="https://gelbukh.com">Prof. Alexander Gelbukh</a>. My research interest lies at the intersection of  <b>Deep Learning</b> and <b>Natural Language Processing</b> with a focus on advancing natural language understanding. Broadly, my focus is on developing robust approaches for preventing, detecting, and countering occurrences of objectionable content on social media. </p>
 <p> <b>{News}</b> Thanks to Microsoft Research for the <a href="https://www.microsoft.com/en-us/research/academic-program/latin-america-phd-award/">Microsoft Research Latin America PhD Award</a> 2020 <a class="sinple" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-emea-and-latin-america-phd-awards-springboard-new-ideas-across-intercontinental-research/">(MSR blog post)</a></p>
