@@ -112,10 +112,10 @@ author:
   name             :  # "Segun Taofeek Aroyehun"
   avatar           : "/assets/images/headshot.jpg"
   bio              : "Postdoctoral researcher at<br> [TU Graz](https://tugraz.at){: .simple}"
-  location         : "Graz, Austria"
-  email            : "saroyehun(at)tugraz.at"
+  location         : "Konstanz, Germany"
+  email            : "segun.aroyehun(at)uni-konstanz.de"
   github           : #"ast123"
-  resume           : "/assets/images/CV.pdf"
+  resume           : #"/assets/images/CV.pdf"
   scholar          : "https://scholar.google.com/citations?user=88FdOd0AAAAJ"
   links:
     - label: "Email"
