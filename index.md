@@ -6,6 +6,7 @@ feature_row:
           image_url: "https://www.uni-konstanz.de/"
           title: "University of Konstanz"
           excerpt: 2023 - present
+          
     - image_path: "assets/images/TU_Graz-logo.png"
       image_url: "https://www.tugraz.at"
       title: "TU Graz"
